@@ -19,7 +19,7 @@
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<project.junit.version>4.11</project.junit.version>
 		<project.log4j.version>1.2.14</project.log4j.version>
-		<project.spring.version>3.2.8.RELEASE</project.spring.version>
+		<project.spring.version>4.3.18.RELEASE</project.spring.version>
 	</properties>
 	<build>
 		<pluginManagement>
